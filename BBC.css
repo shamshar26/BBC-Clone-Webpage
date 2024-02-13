@@ -1,0 +1,61 @@
+img {
+    width: 100px;
+}
+
+.user_icon {
+    color: rgb(197, 116, 10);
+    width: 50px;
+}
+
+.navColor {
+    background-color: #000;
+}
+
+
+.main{
+    height: 100px;
+}
+.Main{
+    height: 300px;
+    display: grid ;
+}
+
+.Second{
+    display: grid;
+    row-gap: 20px;
+    height: 100vh;
+}
+.sub_div{
+    height: 300px;
+    width: 500px;
+}
+
+.Third{
+    display: inline-block;
+    width: 500px;
+    height: 250px;
+    justify-content: space-between;
+}
+
+
+.Whether{
+    height: 100px;
+}
+
+span{
+    font-size: 15px;
+    background-color: #c5cdd5;
+}
+
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sun{
+    width:50px ;
+    height: 50px ;
+}
+
+p{
+    margin-left: -40px;
+}
